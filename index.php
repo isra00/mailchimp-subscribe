@@ -1,7 +1,7 @@
 <?php
 
 define('MCAPI_KEY',			'');
-define('WEBMASTER_EMAIL',	'')
+define('WEBMASTER_EMAIL',	'');
 
 require_once 'MCAPI.class.php';
 require_once 'utils.php';
